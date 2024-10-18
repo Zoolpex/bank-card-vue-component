@@ -8,11 +8,11 @@ The format is based on [Keep a Changelog][keepachangelog] and this project adher
 
 ### Changed
 
- - Поднята версия пакета `maska` до версии `3.0.3`
+ - Package `maska` version updated to `3.0.3`
  
 ### Fixed
 
-- Синтаксис директивы `click-outside`
+- `click-outside` directive syntax
 
 ## v3.0.0
 
