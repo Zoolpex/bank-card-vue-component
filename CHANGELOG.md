@@ -4,6 +4,16 @@ All notable changes to this package will be documented in this file.
 
 The format is based on [Keep a Changelog][keepachangelog] and this project adheres to [Semantic Versioning][semver].
 
+## Unreleased
+
+### Changed
+
+ - Поднята версия пакета `maska` до версии `3.0.3`
+ 
+### Fixed
+
+- Синтаксис директивы `click-outside`
+
 ## v3.0.0
 
 ### Changed
